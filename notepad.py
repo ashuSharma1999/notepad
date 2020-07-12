@@ -74,7 +74,7 @@ def font():
 def viewHelp():
     pass
 def about():
-    showinfo("Unitted-Notepad","Notepad created by ashu.....")
+    showinfo("Unitted-Notepad","Notepad created by ashuSharma.....")
 
 if __name__=='__main__':
     root=Tk()
